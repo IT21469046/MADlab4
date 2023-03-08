@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="email1">Enter Email</string>
+    <string name="email2">Enter email</string>
+    <string name="passowrd">Enter password</string>
+    <string name="name">Enetr name</string>
+    <string name="reenterpassword">"re enter password "</string>
 </resources>
